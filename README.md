@@ -1,2 +1,2 @@
 # TvWidget
-android widget for tv.
+android appwidget for android tv.
