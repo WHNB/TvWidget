@@ -1,2 +1,2 @@
 # TvWidget
-android widget on TV
+android widget for tv.
